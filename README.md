@@ -1,9 +1,9 @@
 # abcdefEnterpriseEdition
 
-[![Build status][Build status image]][Build status URL] [![codecov.io](https://codecov.io/github/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition/coverage.svg?branch=master)](https://codecov.io/github/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition?branch=master)
+[![Build status][Build status image]][Build status URL] [![codecov.io](https://codecov.io/github/DomasM/FizzBuzzEnterpriseEdition/coverage.svg?branch=master)](https://codecov.io/github/DomasM/FizzBuzzEnterpriseEdition?branch=master)
 
-[Build status image]: https://secure.travis-ci.org/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition.png?branch=master
-[Build status URL]: http://travis-ci.org/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition
+[Build status image]: https://secure.travis-ci.org/DomasM/FizzBuzzEnterpriseEdition.png?branch=master
+[Build status URL]: http://travis-ci.org/DomasM/FizzBuzzEnterpriseEdition
 
 Enterprise software marks a special high-grade class of software that makes
 careful use of relevant software architecture design principles to build
