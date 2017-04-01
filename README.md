@@ -1,4 +1,4 @@
-# FizzBuzzEnterpriseEdition
+# abcdefEnterpriseEdition
 
 [![Build status][Build status image]][Build status URL] [![codecov.io](https://codecov.io/github/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition/coverage.svg?branch=master)](https://codecov.io/github/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition?branch=master)
 
@@ -11,19 +11,14 @@ particularly customizable and extensible solutions to real problems. This
 project is an example of how the popular FizzBuzz game might be built were it
 subject to the high quality standards of enterprise software.
 
-## FizzBuzz
+## This is special edition of FizzBuzz, rebranded as abcdef, made for [corporate order from Quora](https://www.quora.com/What-is-the-most-elegant-piece-of-code-you-can-write-in-your-favorite-programming-language-that-prints-the-numbers-from-100-to-200). It has been open-sourced to give it more hype.
 
-FizzBuzz is a game that has gained in popularity as a programming assignment to
-weed out non-programmers during job interviews. The object of the assignment is
-less about solving it correctly according to the below rules and more about
-showing the programmer understands basic, necessary tools such as
-`if`-/`else`-statements and loops. The rules of FizzBuzz are as follows:
 
-For numbers 1 through 100,
+For numbers 100 through 200,
 
-* if the number is divisible by 3 print Fizz;
-* if the number is divisible by 5 print Buzz;
-* if the number is divisible by 3 and 5 (15) print FizzBuzz;
+* if the number is divisible by 3 print abc;
+* if the number is divisible by 5 print def;
+* if the number is divisible by 3 and 5 (15) print abcdef;
 * else, print the number.
 
 ## Contributing
