@@ -21,6 +21,7 @@ For numbers 100 through 200,
 * if the number is divisible by 3 and 5 (15) print abcdef;
 * else, print the number.
 
+
 ## Contributing
 
 Although this project is intended as satire, we take openness and inclusivity
