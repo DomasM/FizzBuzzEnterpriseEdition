@@ -3,9 +3,9 @@ package com.seriouscompany.business.java.fizzbuzz.packagenamingpackage.impl;
 public class Constants {
 
 	public static final String AN_ATTEMPT_WAS_MADE_TO_DIVIDE_BY_ZERO = "An attempt was made to divide by zero.";
-	public static final String BUZZ = "abc";
+	public static final String BUZZ = "def";
 	public static final String COM_SERIOUSCOMPANY_BUSINESS_JAVA_FIZZBUZZ_PACKAGENAMINGPACKAGE_IMPL_PRINTERS_INTEGER_INTEGER_PRINTER_PRINT = "com.seriouscompany.business.java.fizzbuzz.packagenamingpackage.impl.printers.IntegerIntegerPrinter.print()";
-	public static final String FIZZ = "def";
+	public static final String FIZZ = "abc";
 	public static final String LINE_SEPARATOR = "line.separator";
 	public static final String LOOP_COMPONENT_FACTORY = "loopComponentFactory";
 	public static final String SPRING_XML = "spring.xml";
